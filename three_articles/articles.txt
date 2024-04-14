@@ -1,0 +1,10 @@
+1. https://thepythonlab.medium.com/a-gentle-introduction-to-advanced-quantitative-finance-with-python-cd5cc8e8ae53
+Reason:
+A great article highlighting the benefits of Python with quantitative Fianace!
+
+2. https://medium.com/analytics-vidhya/data-science-in-climate-change-7ba2dd948aa7
+Reason:
+Great example how Python is being used to fight climate change!
+
+3. https://medium.com/vytahmag-future-of-space/what-is-python-being-used-for-in-space-e64071b47828
+Reason: Showcases Python's ability to reach space!
